@@ -54,3 +54,11 @@ La API estará disponible en `http://localhost:8080`
 
 Swagger UI disponible en: http://localhost:8080/swagger-ui.html
 Collection POSTMAN: TaskJavaSprintBoot.postman_collection.json
+
+
+
+## 💖 Support
+
+If you enjoy this project, consider supporting my work:
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-💖_Sponsor-ff69b4)](https://github.com/sponsors/alzatesua)
